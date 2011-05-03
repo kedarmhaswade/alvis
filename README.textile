@@ -1,0 +1,8 @@
+h1. Introduction
+
+An algorithm visualisation tool inspired by http://www.cs.usfca.edu/~galles/visualization/CountingSort.html. The only difference is this is entirely done on the command line without any sophisticated graphic support. Let's see how well I do :-)
+
+h1. Environment 
+
+Java 1.5+ and Maven 2+.
+Just build it and do: java -jar alvis.jar
